@@ -1,4 +1,3 @@
-import { query } from "express";
 import { MigrationInterface, QueryRunner, Table } from "typeorm";
 
 export class CreateSuerveys1614622796348 implements MigrationInterface {
@@ -24,7 +23,7 @@ export class CreateSuerveys1614622796348 implements MigrationInterface {
           {
             name: 'created_at',
             type: 'timestamp',
-            default: 'now()'
+            default: 'now()',
           }
         ]
       })

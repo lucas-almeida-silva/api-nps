@@ -44,7 +44,7 @@ The formula for the calculation is:
 # :computer: Technologies
 
 - [Node.js](https://nodejs.org/)
-- [TypeScript](https://www.typescriptlang.org/
+- [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [TypeORM](https://typeorm.io/#/)
 - [SQLite](https://www.sqlite.org/index.html)

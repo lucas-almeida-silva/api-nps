@@ -4,8 +4,8 @@
 
 * [About](#information_source-about)
 * [Features](#rocket-features)
-* [Requirements](#page_with_curl-requirements)
 * [Technologies](#computer-technologies)
+* [Requirements](#page_with_curl-requirements)
 * [Database](#floppy_disk-database)
 * [How to run](#seedling-how-to-run)
 * [License](#pencil-license)
@@ -35,12 +35,6 @@ The formula for the calculation is:
 - Save user score
 - Calculate NPS
 
-# :page_with_curl: Requirements
-
-- [Node.js](https://nodejs.org/)
-- [Yarn](https://yarnpkg.com/) (optional)
-- [Git](https://git-scm.com/) (to clone the repository)
-
 # :computer: Technologies
 
 - [Node.js](https://nodejs.org/)
@@ -49,6 +43,12 @@ The formula for the calculation is:
 - [TypeORM](https://typeorm.io/#/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nodemailer](https://nodemailer.com/about/)
+
+# :page_with_curl: Requirements
+
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) (optional)
+- [Git](https://git-scm.com/) (to clone the repository)
 
 # :floppy_disk: Database
 

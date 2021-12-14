@@ -6,7 +6,7 @@
 * [Features](#rocket-features)
 * [Requirements](#page_with_curl-requirements)
 * [Technologies](#computer-technologies)
-* [Database](#floppy_disk-databases)
+* [Database](#floppy_disk-database)
 * [How to run](#seedling-how-to-run)
 * [License](#pencil-license)
 
